@@ -10,7 +10,7 @@ sites:
   - name: app.jranck.com
     url: https://app.jranck.com
   - name: api.jranck.com
-    url: https://api.jranck.com
+    url: https://api.jranck.com/permissions/anontest
   - name: docs.jranck.com
     url: https://docs.jranck.com
   - name: forethekids.jranck.com
@@ -37,13 +37,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
-  logoUrl: https://jreappstorage.blob.core.windows.net/public/Logo_JRanck_Horizontal.jpg
+  logoUrl: https://jreappstorage.blob.core.windows.net/public/JRE_white.png
   name: Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: No server required — just GitHub Actions, Issues, and Pages
-  navbar:
-    - title: Status
-      href: /
+  theme: dark
+  robotsText: "User-agent: * \n Disallow: /"
+  # navbar:
+  #   - title: Status
+  #     href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
