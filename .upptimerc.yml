@@ -7,30 +7,30 @@ sites:
     url: https://jranck.com
   - name: Spectrum Web App
     url: https://jranck.dexterchaney.com
-  - name: app.jranck.com
-    url: https://app.jranck.com
-  - name: api.jranck.com
-    url: https://api.jranck.com/permissions/anontest
   - name: docs.jranck.com
     url: https://docs.jranck.com
-  - name: forethekids.jranck.com
+  - name: Fore the Kids
     url: https://forethekids.jranck.com
-  - name: hr.jranck.com
+  - name: HR App
     url: https://hr.jranck.com
-  - name: onboarding.jranck.com
+  - name: Onboarding App
     url: https://onboarding.jranck.com
-  - name: operations.jranck.com
+  - name: Operations App
     url: https://operations.jranck.com
-  - name: pte.jranck.com
+  - name: PTE App
     url: https://pte.jranck.com
-  - name: safety.jranck.com
+  - name: Safety App
     url: https://safety.jranck.com
-  - name: warehouse.jranck.com
+  - name: Warehouse App
     url: https://warehouse.jranck.com
-  - name: glstc.jranck.com
+  - name: Solar Safety Trainings
     url: https://glstc.jranck.com
-  - name: store.jranck.com
+  - name: JRE Store
     url: https://store.jranck.com
+  - name: app.jranck.com
+    url: https://app.jranck.com
+  - name: API
+    url: https://api.jranck.com/permissions/anontest
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -38,9 +38,9 @@ status-website:
   cname: status.jranck.com
   # baseUrl: /upptime
   logoUrl: https://jreappstorage.blob.core.windows.net/public/JRE_white.png
-  name: upptime
-  introTitle: "**Upptime** is the open-source upptime monitor and status page, powered entirely by GitHub."
-  introMessage: No server required — just GitHub Actions, Issues, and Pages
+  name: JRE Service Status
+  # introTitle: "**Upptime** is the open-source upptime monitor and status page, powered entirely by GitHub."
+  # introMessage: No server required — just GitHub Actions, Issues, and Pages
   theme: dark
   robotsText: "User-agent: * \n Disallow: /"
   css: ".logo > img { height: 30px !important; }"
