@@ -4,9 +4,9 @@
     "url": "https://jranck.com",
     "icon": "https://icons.duckduckgo.com/ip3/jranck.com.ico",
     "slug": "jranck-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1444,
     "timeMonth": 1444,
     "timeYear": 1444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-26": 0
+    }
   },
   {
     "name": "Spectrum Web App",
@@ -23,13 +25,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/jranck.dexterchaney.com.ico",
     "slug": "spectrum-web-app",
     "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "98.99%",
+    "uptime": "99.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 166,
-    "timeDay": 140,
+    "timeDay": 63,
     "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
