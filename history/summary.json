@@ -166,18 +166,20 @@
     "url": "https://store.jranck.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.jranck.com.ico",
     "slug": "jre-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 648,
-    "timeWeek": 580,
-    "timeMonth": 492,
-    "timeYear": 485,
-    "dailyMinutesDown": {}
+    "time": 479,
+    "timeDay": 362,
+    "timeWeek": 517,
+    "timeMonth": 479,
+    "timeYear": 479,
+    "dailyMinutesDown": {
+      "2025-12-05": 0
+    }
   },
   {
     "name": "app.jranck.com",
