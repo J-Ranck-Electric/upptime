@@ -1,7 +1,7 @@
 url: https://api.jranck.com/permissions/anontest
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-19T15:31:43.931Z
+status: up
+code: 200
+responseTime: 211
+lastUpdated: 2026-01-19T15:52:19.291Z
 startTime: 2025-09-23T16:06:07.132Z
 generator: Upptime <https://github.com/upptime/upptime>
