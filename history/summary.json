@@ -13,7 +13,7 @@
     "time": 560,
     "timeDay": 674,
     "timeWeek": 632,
-    "timeMonth": 616,
+    "timeMonth": 610,
     "timeYear": 560,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 256,
     "timeDay": 289,
     "timeWeek": 350,
-    "timeMonth": 299,
+    "timeMonth": 298,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 507,
     "timeDay": 600,
     "timeWeek": 633,
-    "timeMonth": 572,
+    "timeMonth": 565,
     "timeYear": 507,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 264,
     "timeDay": 265,
     "timeWeek": 308,
-    "timeMonth": 382,
+    "timeMonth": 383,
     "timeYear": 264,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 392,
     "timeDay": 437,
     "timeWeek": 580,
-    "timeMonth": 587,
+    "timeMonth": 590,
     "timeYear": 392,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 332,
     "timeDay": 406,
     "timeWeek": 458,
-    "timeMonth": 392,
+    "timeMonth": 389,
     "timeYear": 332,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 339,
     "timeDay": 399,
     "timeWeek": 424,
-    "timeMonth": 374,
+    "timeMonth": 367,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2026-01-19": 21
@@ -141,7 +141,7 @@
     "time": 329,
     "timeDay": 382,
     "timeWeek": 413,
-    "timeMonth": 378,
+    "timeMonth": 373,
     "timeYear": 329,
     "dailyMinutesDown": {}
   },
@@ -159,7 +159,7 @@
     "time": 210,
     "timeDay": 332,
     "timeWeek": 265,
-    "timeMonth": 241,
+    "timeMonth": 242,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2026-01-19": 21
@@ -170,18 +170,19 @@
     "url": "https://store.jranck.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.jranck.com.ico",
     "slug": "jre-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 521,
-    "timeDay": 313,
-    "timeWeek": 548,
-    "timeMonth": 539,
-    "timeYear": 521,
+    "time": 518,
+    "timeDay": 220,
+    "timeWeek": 496,
+    "timeMonth": 540,
+    "timeYear": 518,
     "dailyMinutesDown": {
+      "2026-02-12": 0,
       "2026-01-19": 21,
       "2025-12-05": 21
     }
@@ -220,7 +221,7 @@
     "time": 262,
     "timeDay": 274,
     "timeWeek": 295,
-    "timeMonth": 256,
+    "timeMonth": 254,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2026-01-19": 21
