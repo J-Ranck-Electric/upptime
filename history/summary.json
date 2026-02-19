@@ -76,19 +76,19 @@
     "url": "https://operations.jranck.com",
     "icon": "https://icons.duckduckgo.com/ip3/operations.jranck.com.ico",
     "slug": "operations-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 9122,
-    "timeWeek": 2541,
-    "timeMonth": 1125,
-    "timeYear": 504,
+    "time": 502,
+    "timeDay": 6160,
+    "timeWeek": 2285,
+    "timeMonth": 1098,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2026-02-19": 0
+      "2026-02-19": 9
     }
   },
   {
