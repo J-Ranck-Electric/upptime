@@ -22,18 +22,20 @@
     "url": "https://forethekids.jranck.com",
     "icon": "https://icons.duckduckgo.com/ip3/forethekids.jranck.com.ico",
     "slug": "fore-the-kids",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 338,
-    "timeWeek": 311,
-    "timeMonth": 262,
-    "timeYear": 256,
-    "dailyMinutesDown": {}
+    "time": 341,
+    "timeDay": 7647,
+    "timeWeek": 2141,
+    "timeMonth": 769,
+    "timeYear": 341,
+    "dailyMinutesDown": {
+      "2026-03-09": 0
+    }
   },
   {
     "name": "HR App",
